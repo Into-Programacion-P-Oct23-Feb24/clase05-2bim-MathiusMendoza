@@ -19,3 +19,9 @@ public class Ejemplo01 {
     }
 
 }
+public static String[][] obtenerCadena {} {
+       String [][] Cadena ={{"Loja","Cuenca","Quito"},
+           {"Guayaquil","Zamora","Machala"};
+}
+}
+    
