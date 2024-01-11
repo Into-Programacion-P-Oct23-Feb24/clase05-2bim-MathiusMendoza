@@ -17,11 +17,4 @@ public class Ejemplo01 {
         imprimirNumeros(numero);
 
     }
-
 }
-public static String[][] obtenerCadena {} {
-       String [][] Cadena ={{"Loja","Cuenca","Quito"},
-           {"Guayaquil","Zamora","Machala"};
-}
-}
-    
